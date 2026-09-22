@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets / environnement
+.env
+
+# Logs
+*.log
+
+# Ansible
+*.retry
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# VM / hyperviseur
+*.vdi
+*.vmdk
+*.ova
+*.box
