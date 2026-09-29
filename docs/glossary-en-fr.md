@@ -17,3 +17,11 @@
 | compte utilisateur | user account |
 | empreinte (de mot de passe) | password hash |
 | traverser (un dossier) | to traverse a directory |
+|tâche planifiée|cron job / scheduled job |
+|sauvegarde|backup|
+|script d'interpréteur|shell script|
+|journal|log|
+|code de retour|exit code|
+|chemin absolu / relatif | absolute / relative path |
+|caractère invisible|invisible / hidden character |
+|substitution de commande|command substitution|
