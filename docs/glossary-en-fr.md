@@ -25,3 +25,11 @@
 |chemin absolu / relatif | absolute / relative path |
 |caractère invisible|invisible / hidden character |
 |substitution de commande|command substitution|
+|commutateur|switch|
+|adresse matérielle|MAC address / hardware address|
+|table ARP|ARP table/ ARP cache|
+|sous-réseau|subnet|
+|masque de sous-réseau|subnet mask|
+|passerelle par défaut|default gateway|
+|diffusion (réseau)|broadcast|
+|portion réseau (d'une adresse)|network portion|
