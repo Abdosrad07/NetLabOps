@@ -40,3 +40,10 @@
 |interface (routeur)|interface|
 |câble droit/croisé|straight-through / crossover cable|
 |lien actif|active link|
+| réseau local virtuel | virtual LAN (VLAN) |
+| port d'accès | access port |
+| port trunk | trunk port |
+| étiquetage de trame (802.1Q) | frame tagging (802.1Q) |
+| segmentation réseau | network segmentation |
+| domaine de diffusion | broadcast domain |
+| appartenance de port | port membership |
