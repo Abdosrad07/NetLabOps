@@ -47,3 +47,7 @@
 | segmentation réseau | network segmentation |
 | domaine de diffusion | broadcast domain |
 | appartenance de port | port membership |
+| sous-interface | subinterface |
+| lien trunk | trunk link |
+| VLAN autorisé (sur trunk) | allowed VLAN |
+| trame | frame |
