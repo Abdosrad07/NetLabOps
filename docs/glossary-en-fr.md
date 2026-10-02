@@ -33,3 +33,10 @@
 |passerelle par défaut|default gateway|
 |diffusion (réseau)|broadcast|
 |portion réseau (d'une adresse)|network portion|
+|passerelle par défaut|default gateway|
+|table de routage|routing table|
+|route directement connectée|directly connected route|
+|saut (réseau)|hop|
+|interface (routeur)|interface|
+|câble droit/croisé|straight-through / crossover cable|
+|lien actif|active link|
