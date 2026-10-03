@@ -51,3 +51,11 @@
 | lien trunk | trunk link |
 | VLAN autorisé (sur trunk) | allowed VLAN |
 | trame | frame |
+| route statique | static route |
+| saut suivant | next hop |
+| routage dynamique | dynamic route |
+| protocole de routage | routing protocol |
+| zone (OSPF) | area |
+| annoncer un réseau | advertise a network |
+| relation de voisinage (OSPF) | adjacency |
+| chemin retour | return path |
