@@ -59,3 +59,10 @@
 | annoncer un réseau | advertise a network |
 | relation de voisinage (OSPF) | adjacency |
 | chemin retour | return path |
+|liste de contrôle d'accès|access control list (ACL)|
+|autoriser/refuser|permit/deny|
+|refus implicite|implicit deny|
+|traduction d'adresse|network address translation (NAT)|
+|surcharge NAT (PAT)|NAT overload / PAT|
+|adresse publique/privée|public/private address|
+|traduction de port|port translation|
