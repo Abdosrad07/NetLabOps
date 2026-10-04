@@ -66,3 +66,9 @@
 |surcharge NAT (PAT)|NAT overload / PAT|
 |adresse publique/privée|public/private address|
 |traduction de port|port translation|
+|bail(DHCP)|lease|
+|relais DHCP|DHCP relay|
+|enregistrement (DNS)|record|
+|résolution de nom|name resolution|
+|octet (adresse IP)|octet|
+|isoler une cause|isolate a cause|
