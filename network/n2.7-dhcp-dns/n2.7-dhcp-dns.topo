@@ -41,12 +41,12 @@
                 <interface sztype="Ethernet" interfacename="Ethernet" count="1" />
             </slot>
         </dev>
-        <dev id="CF141D2F-F259-4443-A7FE-F1344392696A" name="Server1" poe="0" model="Server" settings="-domain 0 -eth 54-89-98-64-41-BA -ipaddr 192.168.40.1 -ipmask 255.255.255.0 -gateway 192.168.40.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 192.168.40.1 -ipv6dns 3000::1 -dnslist _pc5.netlabops.local_192.168.30.1" system_mac="54-89-98-64-41-BA" com_port="0" bootmode="0" cx="565.000000" cy="422.000000" edit_left="592" edit_top="476">
+        <dev id="A62CD611-8C97-4a7a-A9CE-996BBF2D8B16" name="PC1" poe="0" model="PC" settings=" -simpc_ip 192.168.10.253  -simpc_mask 255.255.255.0  -simpc_gateway 192.168.10.254  -simpc_mac 54-89-98-2C-08-F5  -simpc_mc_dstip 0.0.0.0  -simpc_mc_dstmac 00-00-00-00-00-00  -simpc_dns1 192.168.40.1  -simpc_dns2 0.0.0.0  -simpc_ipv6 ::  -simpc_prefix 128  -simpc_gatewayv6 ::  -simpc_dhcp_state 1  -simpc_dhcpv6_state 0  -simpc_dns_auto_state 1  -simpc_igmp_version 1  -simpc_group_ip_start 0.0.0.0  -simpc_src_ip_start 0.0.0.0  -simpc_group_num 0  -simpc_group_step 0  -simpc_src_num 0  -simpc_src_step 0  -simpc_type MODE_IS_INCLUDE " system_mac="54-89-98-2C-08-F5" com_port="0" bootmode="0" cx="256.000000" cy="108.000000" edit_left="283" edit_top="162">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="Ethernet" count="1" />
             </slot>
         </dev>
-        <dev id="A62CD611-8C97-4a7a-A9CE-996BBF2D8B16" name="PC1" poe="0" model="PC" settings=" -simpc_ip 192.168.10.253  -simpc_mask 255.255.255.0  -simpc_gateway 192.168.10.254  -simpc_mac 54-89-98-2C-08-F5  -simpc_mc_dstip 0.0.0.0  -simpc_mc_dstmac 00-00-00-00-00-00  -simpc_dns1 192.168.40.1  -simpc_dns2 0.0.0.0  -simpc_ipv6 ::  -simpc_prefix 128  -simpc_gatewayv6 ::  -simpc_dhcp_state 1  -simpc_dhcpv6_state 0  -simpc_dns_auto_state 1  -simpc_igmp_version 1  -simpc_group_ip_start 0.0.0.0  -simpc_src_ip_start 0.0.0.0  -simpc_group_num 0  -simpc_group_step 0  -simpc_src_num 0  -simpc_src_step 0  -simpc_type MODE_IS_INCLUDE " system_mac="54-89-98-2C-08-F5" com_port="0" bootmode="0" cx="256.000000" cy="108.000000" edit_left="283" edit_top="162">
+        <dev id="CF141D2F-F259-4443-A7FE-F1344392696A" name="Server1" poe="0" model="Server" settings="-domain 0 -eth 54-89-98-64-41-BA -ipaddr 192.168.40.1 -ipmask 255.255.255.0 -gateway 192.168.40.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 192.168.40.1 -ipv6dns 3000::1 -dnslist _pc5.netlabops.local_192.168.30.1" system_mac="54-89-98-64-41-BA" com_port="0" bootmode="0" cx="565.000000" cy="422.000000" edit_left="592" edit_top="476">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="Ethernet" count="1" />
             </slot>
